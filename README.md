@@ -1,4 +1,9 @@
-### Hi there 👋
+
+<div>
+  <a href="https://www.github.com/costa-dnl">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=costa-dnl&show_icons=true&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costa-dnl&langs_count=8&layout=compact&theme=chartreuse-dark"/>
+</div>
 
 <!--
 **costa-dnl/costa-dnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
